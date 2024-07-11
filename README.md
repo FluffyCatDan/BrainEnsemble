@@ -7,7 +7,9 @@
 The human brain comprises distinct regions, each with specific functions. Interconnected through neural pathways, the brain regions collaborate to process complex information. Similarly, ensemble learning enhances pattern classification by leveraging the collaboration and complementarity between classifiers. The similarity between the two suggests that simulating the brain's functional network holds the potential for groundbreaking advancements in the design of ensemble learning algorithms. Motivated by this, our paper proposes a brain-inspired ensemble pruning method called BrainEnsemble. This method provides an example of using classifier combinations to emulate the functions of brain regions. Guided by the principles of curriculum learning and the divide-and-conquer strategy, each artificial brain region can specialize in specific functions and tasks. Additionally, BrainEnsemble simulates the brain regions’ responses and connectivity mechanisms through graph connections. In this model, different artificial brain regions can dynamically reorganize and adjust their interactions to adapt to continuously changing environments or data distributions, enabling the model to maintain high performance when confronted with new data. 
 
 **BrainEnsemble is a Matlab code for quick implementation, modification, evaluation, and visualization of this paper, and it can be applied to pattern recognition problems.**
-![An example of the connection graphs of artificial brain regions](https://github.com/FluffyCatDan/BrainEnsemble/assets/105225235/8c72c063-2dc0-495a-b34b-8d95a454c74e)
+
+![image](https://github.com/FluffyCatDan/BrainEnsemble/assets/105225235/2aba6c70-7075-47e7-b3c8-273f620f4214)
+
 
 **Source Dataset**
 
